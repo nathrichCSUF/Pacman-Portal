@@ -1,0 +1,51 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X-....................XX....................-X
+X-.--P--..............XX.......--P--........-h
+X-.-------.---------.-XX-.--------..-------.-X
+X-..XXXXX-.-XXXXXXX-.-XX-.-XXXXXXX-.-XXXXX-.-X
+X-..XXXXX-.-XXXXXXX-.-XX-.-XXXXXXX-.-XXXXX-.-X
+X-..XXXXX-.-XXXXXXX-.-XX-.-XXXXXXX-.-XXXXX- -X
+X-...................................------.-X
+X-...---......---...--C--....-.----.........-X
+X-.-------.----.--------------.----.-------.-X
+X-.-XXXXX-.-XX-.-XXXXXXXXXXXX-.-XX-.-XXXXX-.-X
+X-.-XXXXX-.-XX-.-XXXXXXXXXXXX-.-XX-.-XXXXX-.-X
+X-.........-XX........XX.......-XX-.........-X
+X-.-------.-XX.-----..XX.-----.-XX-.-------.-X
+X-.........-XX........XX.......-XX-.........-X
+XXXXXXXXX-.-XXXXXXX...XX...XXXXXXX-.-XXXXXXXXX
+--------X-.-XXXXXXX...XX...XXXXXXX-.-X--------
+--------X-.-XX-.-.............--XX-.-X--------
+--------X-.-XX-.-..............-XX-.-X--------
+--------X-.-XX-.--------------.-XX-.-X--------
+--------X-.-XX-.-XXXXooooXXXX-.-XX-.-X--------
+XXXXXXXXX...XX-.-X__________X-..XX-.-XXXXXXXXX
+X---------..---.-X__________X-..--...........X
+h...............-X__________X-...............X
+X---------.----.-X__________X-.----.---------X
+XXXXXXXXX-.-XX-.-X__________X-.-XX-.-XXXXXXXXX
+________X-.-XX-.-XXXXXXXXXXXX-.-XX-.-X_______-
+________X-.-XX-.-......C.....-.-XX-.-X________
+________X-.-XX-.-............-.-XX-.-X________
+________X-.-XX-.-............-.-XX-.-X________
+________X-.-XX-.-XXvXXXXXXXXX-.-XX-.-X________
+XXXXXXXXX-.-XX-.-XXvXXXXXXXXX-.-XX-.-XXXXXXXXX
+X--------.............XX-....................X
+h.....................XX-....................X
+X.--------.---------.-XX-.---------.-------.-X
+X.--XXXXX . XXXXXXX-.-XX-.-XXXXXXX-.-XXXXX-.-X
+X.--XXXXX . XXXXXXX-.-XX-.-XXXXXXX-.-XXXXX-.-X
+X.-----XX . ........................-XX----.-X
+X.-----XX .----.--------------.----.-XX-....-X
+X....--XX-.----.--------------.--....XX-.-.--X
+XXXX.--XX-.-XX-.-XXXXXXXXXXXX-.-XX-.-XX-.-XXXX
+XXXX.--XX-.-XX-.-XXXXXXXXXXXX-.-XX-.-XX-.-XXXX
+X---.-----.-XX-.....--XX-......-XX_.........-X
+X---.-----.-XX-----.--XX-.------XX_____-__-.-X
+X..........-XX-----.--XX-.------XX_____-__-.-X
+X.--XXXXXXXXXXXXXX-.--XX-.-XXXXXXXXXXXXXXX-.-X
+X.--XXXXXXXXXXXXXX-.--XX-.-XXXXXXXXXXXXXXX-.-X
+X.-----------------.-----.-----------------.-X
+X....-P-.............................-P-.....X
+X............................................X
+XXXXXXXXXvXXXXXXXXXXXXXXvXXXXXXXXXXXXXXXXXXXXX
